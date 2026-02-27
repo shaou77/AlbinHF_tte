@@ -1,24 +1,24 @@
 # Early Albumin Administration and Mortality in ICU Patients With Heart Failure and Hypoalbuminemia
 
-## 关于本项目
+## About This Project
 
-本仓库包含论文 **"Early Albumin Administration and Mortality in ICU Patients With Heart Failure and Hypoalbuminemia: A Target Trial Emulation"** 的源代码文件。
+This repository contains the source code for the paper **"Early Albumin Administration and Mortality in ICU Patients With Heart Failure and Hypoalbuminemia: A Target Trial Emulation"**.
 
-## 论文摘要
+## Abstract
 
-本研究旨在评估早期白蛋白补充对ICU中心力衰竭伴低白蛋白血症患者死亡率的影响。采用目标试验模拟（Target Trial Emulation）方法进行分析。
+This study aims to evaluate the effect of early albumin supplementation on mortality in ICU patients with heart failure and hypoalbuminemia. The analysis employs a target trial emulation framework.
 
-## 数据可用性
+## Data Availability
 
-本研究的完整数据将在论文被接受后公开发布。
+The complete dataset for this study will be made publicly available upon paper acceptance.
 
-## 作者
+## Authors
 
-- 主要作者及团队
+- Primary author and team
 
-## 许可证
+## License
 
-本项目仅供学术研究使用。
+This project is for academic research purposes only.
 
 ---
 
