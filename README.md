@@ -14,7 +14,7 @@ The complete dataset for this study will be made publicly available upon paper a
 
 ## Authors
 
-- Primary author and team
+- Yide Li
 
 ## License
 
